@@ -1,4 +1,4 @@
-# Salonova: Salon ERP
+# Salon ERP
 
 ## Project Case Study
 
